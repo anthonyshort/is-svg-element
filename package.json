@@ -1,6 +1,7 @@
 {
   "name": "is-svg-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": "anthonyshort/is-svg-element",
   "description": "Check if an element name is an SVG element",
   "main": "index.js",
   "scripts": {
